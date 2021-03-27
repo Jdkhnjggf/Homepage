@@ -28,14 +28,14 @@ experience:
     location: Saarbrücken, Germany
     date_start: 'April 2021-'
     date_end: ''
-    description: ''
+    description: 
         
   - title: Security Researcher
     company: PeckShield
     company_url: ''
     location: HangZhou
     date_start: '2018-07-01'
-    date_end: '2021-2-28'
+    date_end: '2021-02-28'
     description: |2-
         Responsibilities include:
         
@@ -50,5 +50,5 @@ experience:
     location: ChengDu
     date_start: '2015-09-01'
     date_end: '2019-06-30'
-    description: Taught electronic engineering and researched semiconductor physics.
+    description:
 ---
