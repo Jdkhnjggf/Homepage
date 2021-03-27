@@ -26,7 +26,7 @@ experience:
     company: CISPA Helmholtz Center for Information Security
     company_url: ''
     location: Saarbrücken, Germany
-    date_start: 'April 2021'
+    date_start: '2021-04-15'
     date_end: ''
     description: 
         
