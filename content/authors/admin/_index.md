@@ -6,7 +6,7 @@ title: Zhang Ruiyi
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. Studengt
+role: Ph.D. Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -25,8 +25,8 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: BSc in Software Engineering
-    institution: Universityof ElectronicScience and Technologyof China
+  - course: BSc in Software Engineering (Network Security Engineering)
+    institution: University of Electronic Science and Technology of China, UESTC
     year: 2015
 
 # Social/Academic Networking
