@@ -1,9 +1,5 @@
 ---
 title: "EOSAFE: Security Analysis of EOSIO Smart Contracts"
-
-# Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
-# and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
 - Ningyu He
@@ -15,9 +11,9 @@ authors:
 - Xuxian Jiang
 
 # Author notes (optional)
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
+# author_notes:
+# - "Equal contribution"
+# - "Equal contribution"
 
 date: "2021-04-05T00:00:00Z"
 doi: ""

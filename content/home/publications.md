@@ -22,12 +22,12 @@ content:
   # Page order: descending (desc) or ascending (asc) date.
   order: desc
   # Filter on criteria
-  filters:
-    tag: ''
-    category: ''
-    publication_type: ''
-    author: ''
-    exclude_featured: true
+  # filters:
+  #   tag: ''
+  #   category: ''
+  #   publication_type: ''
+  #   author: ''
+  #   exclude_featured: true
 design:
   # Choose a view for the listings:
   #   1 = List
@@ -36,7 +36,7 @@ design:
   #   4 = Citation (publication only)
   view: 4
 ---
-
+<!-- 
 {{% callout note %}}
 Quickly discover relevant content by [filtering publications](./publication/).
-{{% /callout %}}
+{{% /callout %}} -->
