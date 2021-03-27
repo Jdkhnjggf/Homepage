@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Zhang Ruiyi
+title: Ruiyi Zhang
 
 # Is this the primary user of the site?
 superuser: true
@@ -36,7 +36,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: 'zryzry225@gmail.com'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/Ryz24276053
