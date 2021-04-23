@@ -45,6 +45,8 @@ A list of deadlines for conferences that I’m interested in.
 | :----------------------------------------------------------: | :--------: | :----: | :------: | :----: |
 |   [Oakland 2022](https://www.ieee-security.org/TC/SP2022/)   | 2021-04-15 | 13 + 5 |          |  IEEE  |
 |       [CCS 2021](https://www.sigsac.org/ccs/CCS2021/)        | 2021-05-06 |  12 +  |  Seoul   |  ACM   |
+|      [NDSS 2021](https://www.ndss-symposium.org/ndss2022/)   | 2021-05-21 |  13 -  |          |  NDSS  |
+|      [NDSS 2021](https://www.ndss-symposium.org/ndss2022/)   | 2021-07-23 |  13 -  |          |  NDSS  |
 | [USENIX Security 2022](https://www.usenix.org/conference/usenixsecurity22) | 2021-06-08 |  13+   |  Boston  | USENIX |
 |   [Oakland 2022](https://www.ieee-security.org/TC/SP2022/)   | 2021-08-19 | 13 + 5 |          |  IEEE  |
 | [USENIX Security 2022](https://www.usenix.org/conference/usenixsecurity22) | 2021-10-12 |  13+   |  Boston  | USENIX |

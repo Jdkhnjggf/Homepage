@@ -64,4 +64,4 @@ email: ""
 highlight_name: false
 ---
 
-I am a first-year Ph.D. student at CISPA Helmholtz Center for Information Security. Previously, I was a Security Researcher at PeckShield, Inc. I obtained my bachelor degree from University of Electronic Science and Technology of China (UESTC).
+I am a first-year Ph.D. student at [CISPA Helmholtz Center for Information Security](https://cispa.de/en). From July 2018 to February 2021, I was a Security Researcher at [PeckShield](https://peckshield.com/en), Inc. I obtained my bachelor degree (2019) from University of Electronic Science and Technology of China (UESTC).
