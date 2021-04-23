@@ -1,8 +1,8 @@
 ---
 title: "EOSAFE: Security Analysis of EOSIO Smart Contracts"
 authors:
-- admin
-- Ningyu He
+- Ningyu He *
+- admin *
 - Haoyu Wang
 - Lei Wu
 - Xiapu Luo
@@ -11,9 +11,9 @@ authors:
 - Xuxian Jiang
 
 # Author notes (optional)
-# author_notes:
-# - "Equal contribution"
-# - "Equal contribution"
+author_notes:
+- "Equal contribution"
+- "Equal contribution"
 
 date: "2021-04-05T00:00:00Z"
 doi: ""
