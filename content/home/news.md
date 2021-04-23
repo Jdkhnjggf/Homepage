@@ -37,7 +37,7 @@ design:
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view: 2
+  view: 1
 ---
 
 [April 2021] I will be a Ph.D. Student at CISPA Helmholtz Center for Information Security.
