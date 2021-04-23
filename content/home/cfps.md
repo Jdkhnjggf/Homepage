@@ -14,7 +14,7 @@ subtitle: ''
 
 content:
   # Page type to display. E.g. post, talk, publication...
-  page_type: post
+  page_type: news
   # Choose how much pages you would like to display (0 = all pages)
   count: 0
   # Choose how many pages you would like to offset by
@@ -34,7 +34,7 @@ design:
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view: 3
+  view: 1
 ---
 
 A list of deadlines for conferences that I’m interested in.
@@ -48,7 +48,7 @@ A list of deadlines for conferences that I’m interested in.
 | [USENIX Security 2022](https://www.usenix.org/conference/usenixsecurity22) | 2021-06-08 |  13+   |  Boston  | USENIX |
 |   [Oakland 2022](https://www.ieee-security.org/TC/SP2022/)   | 2021-08-19 | 13 + 5 |          |  IEEE  |
 | [USENIX Security 2022](https://www.usenix.org/conference/usenixsecurity22) | 2021-10-12 |  13+   |  Boston  | USENIX |
-|   [Oakland 2022](https://www.ieee-security.org/TC/SP2022/)   | 2020-12-02 | 13 + 5 |          |  IEEE  |
+|   [Oakland 2022](https://www.ieee-security.org/TC/SP2022/)   | 2021-12-02 | 13 + 5 |          |  IEEE  |
 | [USENIX Security 2022](https://www.usenix.org/conference/usenixsecurity22) | 2022-02-01 |  13+   |  Boston  | USENIX |
 
 
