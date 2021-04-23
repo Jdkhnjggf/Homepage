@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 60
 
-title: News
+title: What’s New
 subtitle:
 
 content:
@@ -27,7 +27,7 @@ content:
     exclude_past: false
     publication_type: ""
   # Choose how many pages you would like to offset by
-  offset: 1
+  offset: 0
   # Page order: descending (desc) or ascending (asc) date.
   order: desc
 
@@ -39,3 +39,6 @@ design:
   #   4 = Citation (publication only)
   view: 2
 ---
+
+[April 2021] I will be a Ph.D. Student at CISPA Helmholtz Center for Information Security.
+[February 2021] Our paper titled "EOSAFE: Security Analysis of EOSIO Smart Contracts" got accepted in **USENIX Security 2021**!
