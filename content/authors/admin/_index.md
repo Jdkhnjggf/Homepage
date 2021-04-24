@@ -25,7 +25,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - couse: Ph.D., 2021-Present
+  - course: Ph.D., 2021-Present
     institution: CISPA Helmholtz Center for Information Security
     year: 2021
   - course: BSc in Software Engineering (Network Security Engineering)
