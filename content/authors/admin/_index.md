@@ -27,7 +27,7 @@ education:
   courses:
   - course: Ph.D., 2021-Present
     institution: CISPA Helmholtz Center for Information Security
-    year: 2021
+    # year: 2021
   - course: BSc in Software Engineering (Network Security Engineering)
     institution: University of Electronic Science and Technology of China, UESTC
     year: 2015
