@@ -25,6 +25,8 @@ interests:
 # Education to show in About widget
 education:
   courses:
+  - couse: Ph.D., 2021-Present
+    institution: CISPA Helmholtz Center for Information Security
   - course: BSc in Software Engineering (Network Security Engineering)
     institution: University of Electronic Science and Technology of China, UESTC
     year: 2015
