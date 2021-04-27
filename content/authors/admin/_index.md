@@ -52,6 +52,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/ruiyi-zhang-73a8b9163/
+- icon: blogger
+  icon_pack: fab
+  link: https://jdkhnjggf.github.io/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
